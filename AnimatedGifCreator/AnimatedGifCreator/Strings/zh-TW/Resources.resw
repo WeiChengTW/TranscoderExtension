@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AnimatedGIFCreatorText.Text" xml:space="preserve">
+    <value>GIF動畫編輯器</value>
+  </data>
+  <data name="ATranscoderExtension.Text" xml:space="preserve">
+    <value>轉碼器擴充</value>
+  </data>
+  <data name="ATranscoderExtensionLink.Content" xml:space="preserve">
+    <value>轉碼器擴充</value>
+  </data>
+  <data name="CloneForkLink.Content" xml:space="preserve">
+    <value>在GitHub上Clone/fork</value>
+  </data>
+  <data name="ConvertButton.Content" xml:space="preserve">
+    <value>轉換為GIF動畫</value>
+  </data>
+  <data name="CreatedByText.Text" xml:space="preserve">
+    <value>由 Michael·S.Scherotter 開發</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>將.mp4、.mov、.wmv 或.avi文件轉換成GIF</value>
+  </data>
+  <data name="DisplayName" xml:space="preserve">
+    <value>GIF動畫編輯器</value>
+  </data>
+  <data name="GIFImages" xml:space="preserve">
+    <value>GIF图像</value>
+  </data>
+  <data name="SelectFileButton.Content" xml:space="preserve">
+    <value>選擇影片檔</value>
+  </data>
+  <data name="ShortName" xml:space="preserve">
+    <value>GIF動畫編輯器</value>
+  </data>
+  <data name="Video" xml:space="preserve">
+    <value>影片</value>
+  </data>
+  <data name="AppExtensionDescription" xml:space="preserve">
+    <value>將影片轉換為GIF動畫</value>
+  </data>
+  <data name="AppExtensionDisplayName" xml:space="preserve">
+    <value>GIF動畫轉碼器</value>
+  </data>
+  <data name="AnimatedGIF" xml:space="preserve">
+    <value>GIF動畫</value>
+  </data>
+  <data name="JournalistExportDescription" xml:space="preserve">
+    <value>從雜誌的頁面上創造電影</value>
+  </data>
+  <data name="Height" xml:space="preserve">
+    <value>高</value>
+  </data>
+  <data name="SecondsPerFrame" xml:space="preserve">
+    <value>每幀秒</value>
+  </data>
+  <data name="Width" xml:space="preserve">
+    <value>寬</value>
+  </data>
+  <data name="RussianTranslationText.Text" xml:space="preserve">
+    <value>Daniel Morozov (RU)</value>
+  </data>
+  <data name="TranslatorsText.Text" xml:space="preserve">
+    <value>翻譯人員</value>
+  </data>
+  <data name="ChineseTranslationText.Text" xml:space="preserve">
+    <value>Alex Qian (zh-CN)</value>
+  </data>
+  <data name="HeightBox.Header" xml:space="preserve">
+    <value>高</value>
+  </data>
+  <data name="WidthBox.Header" xml:space="preserve">
+    <value>宽</value>
+  </data>
+  <data name="FPSBox.Header" xml:space="preserve">
+    <value>每秒幀數</value>
+  </data>
+  <data name="ErrorFormat" xml:space="preserve">
+    <value>製作GIF動畫時出錯
+詳細訊息：
+{0}</value>
+  </data>
+  <data name="ErrorTitle" xml:space="preserve">
+    <value>製作GIF動畫時出現了問題</value>
+  </data>
+  <data name="SlovenianTranslationText.Text" xml:space="preserve">
+    <value>Peter Harb (SL)</value>
+  </data>
+  <data name="KurdishTranslationText.Text" xml:space="preserve">
+    <value>Zana Yousif (KU-Arab)</value>
+  </data>
+  <data name="IndonesianTranslationText.Text" xml:space="preserve">
+    <value>Muhammed Angga Siswantoro (IN)</value>
+  </data>
+  <data name="ItalianTranslationText.Text" xml:space="preserve">
+    <value>Alessandro Di Roberto (IT)</value>
+  </data>
+  <data name="TamilTranslationText.Text" xml:space="preserve">
+    <value>Yasar Arafath (TA)</value>
+  </data>
+  <data name="VietnameseTranslationText.Text" xml:space="preserve">
+    <value>Liêm Nguyễn (VI)</value>
+  </data>
+  <data name="MainPage.FlowDirection" xml:space="preserve">
+    <value>從左到右</value>
+    <comment>使用從左到右進行正確閱讀的語言，像是阿拉伯語、波斯語、希波來語</comment>
+  </data>
+  <data name="FeedbackButton.Content" xml:space="preserve">
+    <value>回饋</value>
+  </data>
+  <data name="TranslatorsButton.Content" xml:space="preserve">
+    <value>翻譯人員</value>
+  </data>
+  <data name="NarrowFPSBox.Header" xml:space="preserve">
+    <value>Fps</value>
+    <comment>Frames Per Second abbreviation</comment>
+  </data>
+  <data name="HelpTranslateText.Text" xml:space="preserve">
+    <value>幫助我們將《GIF動畫編輯器》翻譯成您的語言。</value>
+  </data>
+</root>
